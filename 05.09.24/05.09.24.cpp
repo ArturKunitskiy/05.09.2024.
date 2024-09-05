@@ -8,5 +8,7 @@ int Sum(int a, int b)
 
 int main()
 {
+    
     std::cout << "Hello World!\n";
+    cout << "Hello world" << endl;
 }
